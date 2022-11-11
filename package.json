@@ -12,7 +12,8 @@
   "author": "Alejandro La Rosa",
   "license": "ISC",
   "dependencies": {
-    "express": "4.18.2"
+    "express": "4.18.2",
+    "socket.io": "4.5.3"
   },
   "devDependencies": {
     "nodemon": "2.0.20"
